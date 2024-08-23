@@ -1,6 +1,5 @@
 Overview
 Welcome to the High-Precision Quantum Computing Simulator for Molecular Modeling project! This repository contains the implementation of a quantum computing simulator designed specifically for molecular modeling using PennyLane. The project aims to leverage quantum computing to solve complex molecular problems with high precision, providing an innovative approach to molecular modeling.
-
 Table of Contents
 Introduction
 Features
